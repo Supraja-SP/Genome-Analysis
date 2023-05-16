@@ -1,0 +1,23 @@
+Bin Id	Marker lineage	# genomes	# markers	# marker sets	0	1	2	3	4	5+	Completeness	Contamination	Strain heterogeneity
+bins_33_1	k__Bacteria (UID203)	5449	104	58	0	9	7	12	35	41	100	281.69	3.12
+bins_33_4	c__Gammaproteobacteria (UID4274)	112	577	287	4	568	4	1	0	0	99.18	1.35	14.29
+bins_33_8	k__Bacteria (UID2565)	2921	142	87	5	137	0	0	0	0	96.48	0	0
+bins_33_12	k__Bacteria (UID203)	5449	104	58	3	17	49	33	1	1	94.83	115.14	45.12
+bins_33_7	k__Bacteria (UID2495)	2993	147	91	31	116	0	0	0	0	94.51	0	0
+bins_33_11	k__Bacteria (UID3187)	2258	188	117	13	172	3	0	0	0	90.92	2.14	0
+bins_33_21	k__Archaea (UID2)	207	145	103	16	52	29	35	11	2	87.86	101.99	36.09
+bins_33_9	k__Bacteria (UID2495)	2993	147	91	28	118	1	0	0	0	84.15	0.55	100
+bins_33_19	k__Bacteria (UID203)	5449	104	58	19	59	26	0	0	0	79.94	8.15	3.85
+bins_33_20	o__Actinomycetales (UID1663)	488	310	185	80	226	4	0	0	0	72.76	1.62	50
+bins_33_22	p__Euryarchaeota (UID3)	148	188	125	60	124	4	0	0	0	67.6	1.6	25
+bins_33_2	o__Actinomycetales (UID1696)	455	315	190	97	168	49	1	0	0	67.1	15.37	9.62
+bins_33_13	k__Bacteria (UID2565)	2921	142	87	38	101	3	0	0	0	65.55	3.45	66.67
+bins_33_14	k__Bacteria (UID3187)	2258	188	117	63	100	24	1	0	0	58.94	15.28	18.52
+bins_33_5	k__Bacteria (UID203)	5449	104	58	78	24	2	0	0	0	38.79	3.45	50
+bins_33_17	p__Euryarchaeota (UID3)	148	188	125	106	79	3	0	0	0	36.75	1.26	100
+bins_33_10	k__Bacteria (UID203)	5449	104	58	78	26	0	0	0	0	26.57	0	0
+bins_33_3	k__Bacteria (UID203)	5449	104	58	80	24	0	0	0	0	24.76	0	0
+bins_33_15	k__Bacteria (UID203)	5449	104	58	85	19	0	0	0	0	23.43	0	0
+bins_33_18	p__Actinobacteria (UID1454)	732	199	116	152	47	0	0	0	0	19.45	0	0
+bins_33_6	k__Archaea (UID2)	207	149	107	125	24	0	0	0	0	16.82	0	0
+bins_33_16	k__Bacteria (UID203)	5449	104	58	93	11	0	0	0	0	14.66	0	0
