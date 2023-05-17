@@ -1,1 +1,15 @@
+Bin ID	Marker lineage	genomes	markers	marker sets	0	1	2	3	4	5+	Completeness	Contamination	Strain heterogeneity
+													
+bins_29_6	(UID1)root	5656	56	24	0	1	5	9	5	36	100	343.16	3.94
+bins_29_10	(UID2)k__Archaea	207	145	103	16	47	53	23	6	0	94.21	83.82	38.61
+bins_29_8	(UID3)p__Euryarchaeota	148	188	125	24	164	0	0	0	0	82.8	0	0
+bins_29_3	(UID2)k__Archaea	207	149	107	27	43	75	4	0	0	80.61	58.46	58.62
+bins_29_4	(UID2565)k__Bacteria	2921	142	87	28	110	4	0	0	0	74.29	1.43	25
+bins_29_5	(UID1453)k__Bacteria	901	171	117	50	112	9	0	0	0	65.73	3.58	33.33
+bins_29_11	(UID1663)o__Actinomycetales	488	310	185	143	162	5	0	0	0	48.91	1.51	80
+bins_29_12	(UID1663)o__Actinomycetales	488	310	185	147	158	5	0	0	0	48.83	2.07	40
+bins_29_2	(UID203)k__Bacteria	5449	104	58	84	20	0	0	0	0	32.76	0	0
+bins_29_7	(UID1453)k__Bacteria	901	171	117	108	60	3	0	0	0	29.52	0.46	66.67
+bins_29_9	(UID203)k__Bacteria	5449	104	58	81	23	0	0	0	0	16.46	0	0
+bins_29_1	(UID1)root	5656	56	24	55	1	0	0	0	0	4.17	0	0
 
